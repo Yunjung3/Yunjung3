@@ -6,9 +6,9 @@
 - 그린아트컴퓨터학원 종로 - 
 『기업연계 프로젝트형』 웹디자인(웹퍼블리셔)&프론트엔드 SW개발자 양성 프로그램 수료
 
-## 🍒DEV's log
+### 🍒DEV's log
 <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
-## 🪄Tech Stack
+### 🪄Tech Stack
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
